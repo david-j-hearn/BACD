@@ -1,0 +1,11 @@
+Welcome to BACD ('baked'): Bayesian Analysis of Comparative Data.
+Mon 2010.09.27 12:52:13 AM EDT
+
+Reading user input:
+
+Could not format number strings for number of trees, number of taxa, or random seed.
+
+Reading user input:
+
+Could not format number strings for number of trees, number of taxa, or random seed.
+Writing log to ResultProgressLog.txt
